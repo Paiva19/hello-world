@@ -1,12 +1,4 @@
 # hello-world
 Simple hello world publication
-alsdahsajhdkasdhaskdh
-
-
-.      .
-..    ..
-...  ...
-........
-...  ...
-..    ..
-.      .
+Correcting mistakes is hard 
+lalala
